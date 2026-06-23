@@ -1,5 +1,4 @@
 # Quiz-Application
-# Quiz API Project
 
 A responsive and interactive Quiz Application built using HTML, CSS, and JavaScript. The application displays multiple-choice questions, tracks the user's score, includes a countdown timer for each question, and provides a detailed result summary at the end of the quiz.
 
